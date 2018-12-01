@@ -1,4 +1,4 @@
-# Git nuestro
+# Git nuestro - Rezo Geek
 
 *Git* nuestro que estas en los repos
 Comprimidos sean tus *commits*
